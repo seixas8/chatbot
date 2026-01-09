@@ -2,436 +2,523 @@
   {
     "pergunta": "Até que horas estão abertos durante a semana?",
     "resposta": "De segunda a quinta-feira estamos abertos das 12h00 às 15h00 e das 19h00 às 23h00.",
-    "categoria": "horario"
+    "categoria": "horario",
+    "imagem": "nan"
   },
   {
     "pergunta": "E ao fim de semana qual é o horário?",
     "resposta": "À sexta e sábado estamos abertos das 12h00 às 15h30 e das 19h00 às 00h00. Ao domingo abrimos das 12h00 às 15h30 e das 19h00 às 23h00.",
-    "categoria": "horario"
+    "categoria": "horario",
+    "imagem": "nan"
   },
   {
     "pergunta": "O restaurante fecha em algum dia da semana?",
     "resposta": "Não, estamos abertos todos os dias da semana.",
-    "categoria": "horario"
+    "categoria": "horario",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o horário ao almoço?",
     "resposta": "O horário de almoço é, em geral, das 12h00 às 15h00, com pequenas variações ao fim de semana.",
-    "categoria": "horario"
+    "categoria": "horario",
+    "imagem": "nan"
   },
   {
     "pergunta": "A que horas fecham a cozinha?",
     "resposta": "A cozinha encerra 30 minutos antes da hora de fecho do restaurante.",
-    "categoria": "horario"
+    "categoria": "horario",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é a morada do restaurante?",
     "resposta": "Estamos localizados na Rua Exemplo 123, 4000-000 Porto.",
-    "categoria": "localizacao"
+    "categoria": "localizacao",
+    "imagem": "nan"
   },
   {
     "pergunta": "Como posso chegar ao restaurante de transportes públicos?",
     "resposta": "Pode chegar ao restaurante de metro saindo na estação Exemplo e caminhando cerca de 5 minutos. Também existem várias linhas de autocarro com paragem na Rua Exemplo.",
-    "categoria": "localizacao"
+    "categoria": "localizacao",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm estacionamento perto do restaurante?",
     "resposta": "Existem lugares de estacionamento na via pública nas ruas adjacentes e um parque coberto a 200 metros do restaurante.",
-    "categoria": "localizacao"
+    "categoria": "localizacao",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o vosso número de telefone?",
     "resposta": "Pode contactar-nos através do número 22 123 45 67.",
-    "categoria": "contactos"
+    "categoria": "contactos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso enviar email para fazer perguntas ou reservas?",
     "resposta": "Sim, pode enviar email para reservas@restaurante-exemplo.pt para qualquer questão ou pedido de reserva.",
-    "categoria": "contactos"
+    "categoria": "contactos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm WhatsApp para contacto rápido?",
     "resposta": "Sim, pode contactar-nos por WhatsApp através do mesmo número de telefone do restaurante, 22 123 45 67.",
-    "categoria": "contactos"
+    "categoria": "contactos",
+    "imagem": "nan"
   },
   {
     "pergunta": "É necessário fazer reserva?",
     "resposta": "Não é obrigatório, mas recomendamos fazer reserva, sobretudo ao jantar e aos fins de semana, para garantir mesa.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Como posso fazer uma reserva?",
     "resposta": "Pode reservar por telefone, por WhatsApp ou por email para reservas@restaurante-exemplo.pt indicando data, horário e número de pessoas.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Com quanta antecedência devo reservar ao fim de semana?",
     "resposta": "Ao fim de semana recomendamos reservar com pelo menos 2 a 3 dias de antecedência, especialmente para grupos.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso reservar mesa na esplanada?",
     "resposta": "Sim, pode pedir especificamente mesa na esplanada, mas está sempre dependente das condições meteorológicas.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o número máximo de pessoas por reserva online?",
     "resposta": "Nas reservas online aceitamos até 8 pessoas. Para grupos maiores, por favor contacte-nos por telefone ou email.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Podem guardar uma mesa se eu me atrasar?",
     "resposta": "Mantemos a reserva até 15 minutos após a hora marcada. Se estiver a prever atraso superior, pedimos que nos avise.",
-    "categoria": "reservas"
+    "categoria": "reservas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Como posso cancelar uma reserva?",
     "resposta": "Pode cancelar a sua reserva por telefone, WhatsApp ou email, indicando o nome e a data da reserva.",
-    "categoria": "cancelamentos"
+    "categoria": "cancelamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Cobram alguma taxa por cancelar a reserva?",
     "resposta": "Não cobramos taxa de cancelamento, mas pedimos que nos avise com a maior antecedência possível para podermos disponibilizar a mesa a outros clientes.",
-    "categoria": "cancelamentos"
+    "categoria": "cancelamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "O que acontece se eu não aparecer na hora da reserva?",
     "resposta": "Se não comparecer nem nos contactar, a reserva é automaticamente cancelada 15 minutos após a hora marcada.",
-    "categoria": "cancelamentos"
+    "categoria": "cancelamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Organizam jantares de grupo ou eventos?",
     "resposta": "Sim, organizamos jantares de grupo, aniversários, eventos de empresa e outras ocasiões especiais. Temos menus de grupo personalizados.",
-    "categoria": "grupos_eventos"
+    "categoria": "grupos_eventos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o número mínimo de pessoas para menu de grupo?",
     "resposta": "Os menus de grupo estão disponíveis para reservas a partir de 8 pessoas.",
-    "categoria": "grupos_eventos"
+    "categoria": "grupos_eventos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Podem preparar um bolo de aniversário?",
     "resposta": "Podemos sugerir e fornecer bolo de aniversário com antecedência mínima de 48 horas. Também pode trazer o seu próprio bolo, mediante taxa de serviço simbólica.",
-    "categoria": "grupos_eventos"
+    "categoria": "grupos_eventos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm sala privada para eventos?",
     "resposta": "Dispomos de uma sala reservada para grupos até 20 pessoas, sujeita a disponibilidade e reserva prévia.",
-    "categoria": "grupos_eventos"
+    "categoria": "grupos_eventos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Podem emitir fatura em nome da empresa para eventos?",
     "resposta": "Sim, emitimos fatura com NIF de empresa. Basta indicar os dados fiscais no momento da reserva ou pagamento.",
-    "categoria": "grupos_eventos"
+    "categoria": "grupos_eventos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o tipo de cozinha do restaurante?",
     "resposta": "Somos um restaurante de cozinha portuguesa contemporânea, com foco em ingredientes frescos e pratos tradicionais com um toque moderno.",
-    "categoria": "menu_geral"
+    "categoria": "menu_geral",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm menu de degustação?",
     "resposta": "Sim, temos um menu de degustação com 5 momentos, disponível ao jantar, que pode ser adaptado mediante restrições alimentares.",
-    "categoria": "menu_geral"
+    "categoria": "menu_geral",
+    "imagem": "nan"
   },
   {
     "pergunta": "O menu muda com frequência?",
     "resposta": "Atualizamos o menu sazonalmente, de acordo com a disponibilidade de produtos e ingredientes frescos.",
-    "categoria": "menu_geral"
+    "categoria": "menu_geral",
+    "imagem": "nan"
   },
   {
     "pergunta": "Que entradas recomendam?",
     "resposta": "Entre as entradas mais pedidas estão o pão artesanal com manteigas aromatizadas, a tábua de enchidos tradicionais e o tártaro de salmão.",
-    "categoria": "menu_entradas"
+    "categoria": "menu_entradas",
+    "imagem": "pão_e_manteigas.jpg,tabua_enchidos.jpg,tartaro_salmão.jpg"
   },
   {
     "pergunta": "Têm sopa do dia?",
     "resposta": "Sim, servimos sempre uma sopa do dia, preparada com legumes frescos da época.",
-    "categoria": "menu_entradas"
+    "categoria": "menu_entradas",
+    "imagem": "sopa.jpg"
   },
   {
     "pergunta": "Têm tábuas para partilhar?",
     "resposta": "Sim, temos tábuas de queijos e enchidos tradicionais, ideais para partilhar entre 2 a 4 pessoas.",
-    "categoria": "menu_entradas"
+    "categoria": "menu_entradas",
+    "imagem": "tabua_enchidos.jpg"
   },
   {
     "pergunta": "Servem entradas vegetarianas?",
     "resposta": "Sim, temos bruschettas de legumes grelhados, húmus com palitos de vegetais e salada de quinoa como opções vegetarianas de entrada.",
-    "categoria": "menu_entradas"
+    "categoria": "menu_entradas",
+    "imagem": "brucheta.jpg,humus.jpg,salada_quinoa.jpg"
   },
   {
     "pergunta": "Que pratos de carne têm no menu?",
     "resposta": "Temos vários pratos de carne, incluindo bife da vazia grelhado, costeletas de borrego, peito de frango marinado e arroz de pato no forno.",
-    "categoria": "menu_carnes"
+    "categoria": "menu_carnes",
+    "imagem": "bife.jpg,costeletas.jpg,frango.jpg,arroz_pato.jpg"
   },
   {
     "pergunta": "Têm bife com molho especial?",
     "resposta": "Sim, servimos bife da vazia com vários molhos à escolha, como pimenta, cogumelos ou manteiga de alho e ervas.",
-    "categoria": "menu_carnes"
+    "categoria": "menu_carnes",
+    "imagem": "bife.jpg"
   },
   {
     "pergunta": "O bife é servido com que acompanhamentos?",
     "resposta": "O bife é servido com batata frita caseira ou puré de batata e legumes salteados. Pode trocar por salada mista se preferir.",
-    "categoria": "menu_carnes"
+    "categoria": "menu_carnes",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm opções de carne de porco?",
     "resposta": "Sim, temos secretos de porco preto grelhados e rojões à moda do Norte, dependendo da disponibilidade.",
-    "categoria": "menu_carnes"
+    "categoria": "menu_carnes",
+    "imagem": "secretos_porco.jpg,rojões.jpg"
   },
   {
     "pergunta": "Que pratos de peixe têm no menu?",
     "resposta": "Temos bacalhau à casa, lombo de salmão grelhado, polvo à lagareiro e peixe do dia grelhado.",
-    "categoria": "menu_peixe"
+    "categoria": "menu_peixe",
+    "imagem": "bacalhau.jpg,salmão.jpg,polvo.jpg"
   },
   {
     "pergunta": "O peixe é sempre fresco?",
     "resposta": "Trabalhamos maioritariamente com peixe fresco, dependendo da disponibilidade da lota. Quando não é possível, indicamos no menu.",
-    "categoria": "menu_peixe"
+    "categoria": "menu_peixe",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm bacalhau no menu?",
     "resposta": "Sim, o nosso bacalhau à casa é um dos pratos mais populares, confitado em azeite e servido com batata a murro e grelos salteados.",
-    "categoria": "menu_peixe"
+    "categoria": "menu_peixe",
+    "imagem": "bacalhau.jpg"
   },
   {
     "pergunta": "Servem marisco?",
     "resposta": "Dependendo da época, podemos ter amêijoas, camarão ou outros mariscos. Confirme no dia com o staff ou no quadro de sugestões.",
-    "categoria": "menu_peixe"
+    "categoria": "menu_peixe",
+    "imagem": "tabua_marisco.jpg"
   },
   {
     "pergunta": "Têm opções vegetarianas?",
     "resposta": "Sim, temos risoto de cogumelos, caril de legumes, massa com pesto de manjericão e saladas completas como opções vegetarianas.",
-    "categoria": "menu_vegetariano_vegano"
+    "categoria": "menu_vegetariano_vegano",
+    "imagem": "risoto.jpg,caril_legumes.jpg,massa_pesto.jpg"
   },
   {
     "pergunta": "E opções veganas, também têm?",
     "resposta": "Sim, temos um caril de legumes com leite de coco, salada de grão-de-bico com legumes assados e hambúrguer vegan de grão e beterraba.",
-    "categoria": "menu_vegetariano_vegano"
+    "categoria": "menu_vegetariano_vegano",
+    "imagem": "caril_legumes"
   },
   {
     "pergunta": "Podem adaptar pratos para serem vegetarianos?",
     "resposta": "Sempre que possível, conseguimos adaptar alguns pratos, por exemplo retirando carne ou peixe e reforçando os legumes. Fale connosco no momento do pedido.",
-    "categoria": "menu_vegetariano_vegano"
+    "categoria": "menu_vegetariano_vegano",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm alternativas sem lactose?",
     "resposta": "Sim, temos algumas opções naturalmente isentas de lactose e, em certos casos, conseguimos adaptar receitas, por exemplo usando bebidas vegetais. Confirme sempre com o staff.",
-    "categoria": "menu_vegetariano_vegano"
+    "categoria": "menu_vegetariano_vegano",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm menu especial para crianças?",
     "resposta": "Sim, temos um menu infantil com bifinhos de frango grelhado, massa à bolonhesa e mini hambúrguer com batata frita e legumes.",
-    "categoria": "menu_criancas"
+    "categoria": "menu_criancas",
+    "imagem": "bifinhos_frango.jpg,bolonhesa.jpg,mini_hamburguer.jpg"
   },
   {
     "pergunta": "O menu infantil inclui bebida?",
     "resposta": "O menu infantil inclui água ou sumo natural pequeno. Outras bebidas são cobradas à parte.",
-    "categoria": "menu_criancas"
+    "categoria": "menu_criancas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm cadeiras para bebés e crianças pequenas?",
     "resposta": "Sim, temos cadeiras altas para bebés e crianças pequenas. Pode pedir uma ao fazer a reserva ou ao chegar ao restaurante.",
-    "categoria": "menu_criancas"
+    "categoria": "menu_criancas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Que sobremesas têm?",
     "resposta": "As nossas sobremesas variam, mas normalmente incluímos mousse de chocolate, cheesecake, pudim de ovos, fruta da época e uma sobremesa do dia.",
-    "categoria": "sobremesas"
+    "categoria": "sobremesas",
+    "imagem": "mousse.jpg,cheesecake.jpg,pudim.jpg"
   },
   {
     "pergunta": "Têm sobremesas sem glúten?",
     "resposta": "Sim, normalmente temos pelo menos uma opção sem glúten, como mousse de chocolate ou pavlova. Confirme com o staff no dia.",
-    "categoria": "sobremesas"
+    "categoria": "sobremesas",
+    "imagem": "mousse.jpg"
   },
   {
     "pergunta": "Têm opção de sobremesa vegana?",
     "resposta": "Sempre que possível, incluímos uma sobremesa vegana, como crumble de fruta com gelado vegetal. Pergunte pela sugestão do dia.",
-    "categoria": "sobremesas"
+    "categoria": "sobremesas",
+    "imagem": "crumble.jpg"
   },
   {
     "pergunta": "Posso pedir só fruta como sobremesa?",
     "resposta": "Sim, servimos fruta da época, inteira ou em salada de fruta, mediante disponibilidade.",
-    "categoria": "sobremesas"
+    "categoria": "sobremesas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Que bebidas sem álcool têm disponíveis?",
     "resposta": "Temos água, refrigerantes, sumos naturais, chás frios, águas aromatizadas e cocktails sem álcool.",
-    "categoria": "bebidas"
+    "categoria": "bebidas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Servem cocktails?",
     "resposta": "Sim, temos uma carta de cocktails clássicos e de autor, bem como versões sem álcool de alguns deles.",
-    "categoria": "bebidas"
+    "categoria": "bebidas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm cerveja de pressão?",
     "resposta": "Sim, temos cerveja de pressão e várias opções de cerveja artesanal em garrafa.",
-    "categoria": "bebidas"
+    "categoria": "bebidas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm bebidas quentes?",
     "resposta": "Sim, servimos café, descafeinado, cappuccino, chá e infusões de ervas.",
-    "categoria": "bebidas"
+    "categoria": "bebidas",
+    "imagem": "nan"
   },
   {
     "pergunta": "Que tipo de vinhos têm na carta?",
     "resposta": "Temos vinhos tintos, brancos, rosés e espumantes, maioritariamente de regiões portuguesas como Douro, Alentejo, Dão e Minho.",
-    "categoria": "vinhos"
+    "categoria": "vinhos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Ajudam a escolher o vinho para acompanhar o prato?",
     "resposta": "Sim, a nossa equipa terá todo o gosto em sugerir o vinho mais adequado de acordo com os pratos escolhidos e o seu gosto pessoal.",
-    "categoria": "vinhos"
+    "categoria": "vinhos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm vinho a copo?",
     "resposta": "Sim, temos sempre várias referências de vinho servidas a copo, tanto tinto como branco e, por vezes, rosé.",
-    "categoria": "vinhos"
+    "categoria": "vinhos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm opções de vinho sem álcool?",
     "resposta": "Podemos ter vinho sem álcool ou alternativas como sumos de uva ou cocktails sem álcool. Confirme no dia com o staff.",
-    "categoria": "vinhos"
+    "categoria": "vinhos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Tenho alergia a frutos secos, o que devo fazer?",
     "resposta": "Informe sempre o staff sobre a sua alergia a frutos secos antes de fazer o pedido. Indicaremos quais os pratos seguros e, sempre que possível, evitamos contaminação cruzada.",
-    "categoria": "alergias_intolerancias"
+    "categoria": "alergias_intolerancias",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm informação sobre alergénios no menu?",
     "resposta": "Sim, o nosso menu inclui símbolos de alergénios principais e a equipa pode esclarecer qualquer dúvida detalhada.",
-    "categoria": "alergias_intolerancias"
+    "categoria": "alergias_intolerancias",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm pratos sem glúten?",
     "resposta": "Sim, temos alguns pratos naturalmente isentos de glúten e outros que podemos adaptar. Indique-nos a sua intolerância ou doença celíaca para podermos aconselhar.",
-    "categoria": "alergias_intolerancias"
+    "categoria": "alergias_intolerancias",
+    "imagem": "nan"
   },
   {
     "pergunta": "Conseguem adaptar pratos para intolerantes à lactose?",
     "resposta": "Sempre que possível, conseguimos substituir ingredientes como natas ou leite por alternativas vegetais, ou sugerir pratos naturalmente sem lactose.",
-    "categoria": "alergias_intolerancias"
+    "categoria": "alergias_intolerancias",
+    "imagem": "nan"
   },
   {
     "pergunta": "Existe risco de contaminação cruzada na cozinha?",
     "resposta": "Apesar de termos cuidados específicos, a nossa cozinha não é 100% isenta de alergénios, pelo que pode existir algum risco de contaminação cruzada.",
-    "categoria": "alergias_intolerancias"
+    "categoria": "alergias_intolerancias",
+    "imagem": "nan"
   },
   {
     "pergunta": "Fazem serviço de take-away?",
     "resposta": "Sim, pode levantar o seu pedido no restaurante. Pode encomendar por telefone, WhatsApp ou presencialmente.",
-    "categoria": "takeaway_delivery"
+    "categoria": "takeaway_delivery",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso encomendar comida para entrega em casa?",
     "resposta": "Trabalhamos com algumas plataformas de entrega. Verifique na sua aplicação habitual se o nosso restaurante está disponível na sua zona.",
-    "categoria": "takeaway_delivery"
+    "categoria": "takeaway_delivery",
+    "imagem": "nan"
   },
   {
     "pergunta": "Com quanta antecedência devo fazer um pedido grande de take-away?",
     "resposta": "Para encomendas grandes recomendamos que faça o pedido com pelo menos 24 horas de antecedência.",
-    "categoria": "takeaway_delivery"
+    "categoria": "takeaway_delivery",
+    "imagem": "nan"
   },
   {
     "pergunta": "O menu de take-away é igual ao do restaurante?",
     "resposta": "A maior parte dos pratos está disponível em take-away, mas alguns itens mais delicados podem não estar incluídos.",
-    "categoria": "takeaway_delivery"
+    "categoria": "takeaway_delivery",
+    "imagem": "nan"
   },
   {
     "pergunta": "As embalagens de take-away são recicláveis?",
     "resposta": "Usamos sempre que possível embalagens recicláveis ou reutilizáveis. Estamos a trabalhar continuamente para reduzir o impacto ambiental.",
-    "categoria": "takeaway_delivery"
+    "categoria": "takeaway_delivery",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm estacionamento próprio?",
     "resposta": "Não temos parque privativo, mas existem vários lugares de estacionamento público nas ruas envolventes.",
-    "categoria": "estacionamento"
+    "categoria": "estacionamento",
+    "imagem": "nan"
   },
   {
     "pergunta": "O parque coberto mais próximo é longe?",
     "resposta": "O parque coberto mais próximo fica a cerca de 200 metros do restaurante, a pé são aproximadamente 3 minutos.",
-    "categoria": "estacionamento"
+    "categoria": "estacionamento",
+    "imagem": "nan"
   },
   {
     "pergunta": "Que métodos de pagamento aceitam?",
     "resposta": "Aceitamos numerário, cartões de débito, cartões de crédito e MB Way.",
-    "categoria": "pagamentos"
+    "categoria": "pagamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso pagar com multibanco?",
     "resposta": "Sim, pode pagar com cartão de débito ou crédito através de terminal de pagamento automático.",
-    "categoria": "pagamentos"
+    "categoria": "pagamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Aceitam vales refeição?",
     "resposta": "Aceitamos alguns tipos de cartões refeição. Confirme com a equipa no momento do pagamento quais os que estão disponíveis.",
-    "categoria": "pagamentos"
+    "categoria": "pagamentos",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm Wi-Fi para clientes?",
     "resposta": "Sim, disponibilizamos Wi-Fi gratuito para clientes.",
-    "categoria": "wifi"
+    "categoria": "wifi",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é a password do Wi-Fi?",
     "resposta": "A password do Wi-Fi está indicada no verso do menu e pode também ser solicitada ao staff.",
-    "categoria": "wifi"
+    "categoria": "wifi",
+    "imagem": "nan"
   },
   {
     "pergunta": "O restaurante é acessível para pessoas com mobilidade reduzida?",
     "resposta": "Sim, o restaurante tem acesso ao nível da rua, rampa na entrada e casa de banho adaptada para pessoas com mobilidade reduzida.",
-    "categoria": "acessibilidade"
+    "categoria": "acessibilidade",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm casa de banho adaptada para cadeiras de rodas?",
     "resposta": "Sim, temos uma casa de banho adaptada para pessoas em cadeira de rodas.",
-    "categoria": "acessibilidade"
+    "categoria": "acessibilidade",
+    "imagem": "nan"
   },
   {
     "pergunta": "São permitidos animais de estimação?",
     "resposta": "Na sala interior não são permitidos animais de estimação, exceto cães de assistência devidamente identificados.",
-    "categoria": "animais"
+    "categoria": "animais",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso levar o meu cão para a esplanada?",
     "resposta": "Sim, aceitamos cães bem-comportados na esplanada, desde que com trela e sob supervisão do dono.",
-    "categoria": "animais"
+    "categoria": "animais",
+    "imagem": "nan"
   },
   {
     "pergunta": "É permitido fumar dentro do restaurante?",
     "resposta": "Não, é estritamente proibido fumar dentro do restaurante, incluindo cigarros eletrónicos.",
-    "categoria": "fumadores"
+    "categoria": "fumadores",
+    "imagem": "nan"
   },
   {
     "pergunta": "Há alguma zona para fumadores?",
     "resposta": "Os clientes podem fumar na área exterior, respeitando os restantes clientes e a legislação em vigor.",
-    "categoria": "fumadores"
+    "categoria": "fumadores",
+    "imagem": "nan"
   },
   {
     "pergunta": "Têm música ao vivo?",
     "resposta": "Em algumas datas especiais temos música ao vivo. Estas sessões são anunciadas nas nossas redes sociais e no próprio restaurante.",
-    "categoria": "musica_ambiente"
+    "categoria": "musica_ambiente",
+    "imagem": "nan"
   },
   {
     "pergunta": "Há música ambiente no dia a dia?",
     "resposta": "Sim, temos música ambiente discreta para criar um ambiente agradável, sem prejudicar a conversa à mesa.",
-    "categoria": "musica_ambiente"
+    "categoria": "musica_ambiente",
+    "imagem": "nan"
   },
   {
     "pergunta": "Qual é o dress code do restaurante?",
     "resposta": "Não temos dress code formal. Recomendamos roupa casual ou casual chic, especialmente ao jantar.",
-    "categoria": "outros"
+    "categoria": "outros",
+    "imagem": "nan"
   },
   {
     "pergunta": "É possível oferecer um vale de refeição como presente?",
     "resposta": "Sim, temos vouchers de oferta com valor à escolha, que podem ser utilizados no restaurante dentro do prazo indicado.",
-    "categoria": "outros"
+    "categoria": "outros",
+    "imagem": "nan"
   },
   {
     "pergunta": "Posso levar um bolo ou garrafa de vinho de casa?",
     "resposta": "É possível, mas poderá ser aplicada uma taxa de serviço. Confirme previamente connosco para combinarmos as condições.",
-    "categoria": "outros"
+    "categoria": "outros",
+    "imagem": "nan"
   }
 ]

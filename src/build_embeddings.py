@@ -21,6 +21,7 @@ def main():
         pergunta = str(row["pergunta"])
         resposta = str(row["resposta"])
         categoria = str(row.get("categoria", ""))
+        lista_imagens = str(row.get("imagem", ""))
 
         doc_text = f"PERGUNTA: {pergunta}\nRESPOSTA: {resposta}"
         documents.append(doc_text)
@@ -29,6 +30,7 @@ def main():
             "pergunta": pergunta,
             "resposta": resposta,
             "categoria": categoria,
+            "imagem": lista_imagens
         })
 
     print(f"Total de documentos: {len(documents)}")

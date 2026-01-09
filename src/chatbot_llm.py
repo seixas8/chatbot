@@ -104,9 +104,10 @@ def responder(
     user_query: str,
     embeddings: np.ndarray,
     metadata: List[Dict],
-) -> str:
+) -> tuple:
     top_docs = retrieve_top_k(client, user_query, embeddings, metadata, k=3)
     context = build_context_from_docs(top_docs)
+
 
     messages = [
         {
@@ -136,7 +137,8 @@ def responder(
     )
 
     resposta = completion.choices[0].message.content
-    return resposta
+    imagens_encontradas = top_docs[0].get("imagem","")
+    return resposta, imagens_encontradas
 
 
 def main():
@@ -159,12 +161,14 @@ def main():
             break
 
         try:
-            resposta = responder(client, user_query, embeddings, metadata)
+            resposta, fotos = responder(client, user_query, embeddings, metadata)
         except Exception as e:
             print(f"[ERRO] Ocorreu um problema ao gerar a resposta: {e}")
             continue
 
         print("Bot:", resposta)
+        if fotos and str(fotos).lower() != "nan":
+            print(f"[IMAGENS ASSOCIADAS]: {fotos}")
         print()
 
 
