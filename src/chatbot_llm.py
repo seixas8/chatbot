@@ -154,6 +154,8 @@ def responder(
             "2. Para reservar, precisas de: Nome, Data (AAAA-MM-DD), Hora e Pessoas. "
             "Não te esqueças do que o utilizador já disse nas mensagens anteriores.\n"
             "3. PROCESSO DE CONFIRMAÇÃO:\n"
+            "Se o número de pessoas exceder o limite de 20 mesas (1 mesa por cada 4 pessoas), não ofereças confirmação."
+            "Diz que o grupo é demasiado grande e pede para ligarem."
             "   - Quando tiveres os 4 dados, faz um resumo e pergunta: 'Posso confirmar?'\n"
             "   - APENAS quando o utilizador disser 'sim', 'pode', 'confirma', deves gerar o código no fim da resposta: "
             "[RESERVA|Nome|Data|Hora|Pessoas]"

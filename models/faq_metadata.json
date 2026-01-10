@@ -171,7 +171,7 @@
     "pergunta": "Que entradas recomendam?",
     "resposta": "Entre as entradas mais pedidas estão o pão artesanal com manteigas aromatizadas, a tábua de enchidos tradicionais e o tártaro de salmão.",
     "categoria": "menu_entradas",
-    "imagem": "pão_e_manteigas.jpg,tabua_enchidos.jpg,tartaro_salmão.jpg"
+    "imagem": "pao_e_manteigas.jpg,tabua_enchidos.jpg,tartaro_salmao.jpg"
   },
   {
     "pergunta": "Têm sopa do dia?",
@@ -213,13 +213,13 @@
     "pergunta": "Têm opções de carne de porco?",
     "resposta": "Sim, temos secretos de porco preto grelhados e rojões à moda do Norte, dependendo da disponibilidade.",
     "categoria": "menu_carnes",
-    "imagem": "secretos_porco.jpg,rojões.jpg"
+    "imagem": "secretos_porco.jpg,rojoes.jpg"
   },
   {
     "pergunta": "Que pratos de peixe têm no menu?",
     "resposta": "Temos bacalhau à casa, lombo de salmão grelhado, polvo à lagareiro e peixe do dia grelhado.",
     "categoria": "menu_peixe",
-    "imagem": "bacalhau.jpg,salmão.jpg,polvo.jpg"
+    "imagem": "bacalhau.jpg,salmao.jpg,polvo.jpg"
   },
   {
     "pergunta": "O peixe é sempre fresco?",
