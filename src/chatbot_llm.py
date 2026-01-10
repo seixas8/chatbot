@@ -9,6 +9,12 @@ from datetime import datetime
 import numpy as np
 from openai import OpenAI
 
+from typing import List, Dict
+try:
+    from src.calendar_service import create_reservation_event
+except ImportError:
+    from calendar_service import create_reservation_event
+
 PASTA_RESERVAS = os.path.join("data", "reservas.csv")
 LIMITE_MESAS = 15
 
@@ -202,9 +208,11 @@ def main():
                 historico_conversa = historico_conversa[-10:]
 
             if "[RESERVA|" in resposta:
+                parte_texto = resposta.split("[RESERVA|")[0].strip()
+
                 try:
                     dados_brutos = resposta.split("[RESERVA|")[1].split("]")[0]
-                    nome, data, hora, pessoas_str = dados_brutos.split("|")
+                    nome, data, hora, pessoas_str = [x.strip() for x in dados_brutos.split("|")]
                     num_pessoas = int(pessoas_str)
                     
                     mesas_precisas = calcular_mesas_necessarias(num_pessoas)
@@ -212,12 +220,35 @@ def main():
 
                     if ocupacao_atual + mesas_precisas <= LIMITE_MESAS:
                         registar_reserva(nome, data, hora, num_pessoas)
-                        print("Bot:", resposta.split("[RESERVA|")[0].strip())
-                        print(f"✅ [SISTEMA]: Reserva confirmada em nome de {nome}.")
+
+                        try:
+                            event_id = create_reservation_event(
+                                name=nome,
+                                people=num_pessoas,
+                                date_str=data,
+                                time_str=hora,
+                                phone=None,  
+                                notes=None,
+                            )
+                            print("Bot:", parte_texto)
+                            print(f" [SISTEMA]: Reserva confirmada em nome de {nome}.")
+                            print(f" [SISTEMA]: Evento criado no Google Calendar (ID: {event_id}).")
+                        except Exception as e:
+                            print("Bot:", parte_texto)
+                            print(f" [SISTEMA]: Reserva registada em CSV, mas falhou a criação no Google Calendar: {e}")
+
                     else:
-                        print("Bot: Lamento, mas já não temos mesas para essa hora. Temos ocupadas", ocupacao_atual, "mesas.")
+                        print("Bot:", parte_texto)
+                        print(
+                            " [SISTEMA]: Lamento, mas já não temos mesas suficientes para essa hora. "
+                            f"Mesas ocupadas: {ocupacao_atual}, mesas necessárias: {mesas_precisas}."
+                        )
+
                 except Exception as e:
                     print("Bot:", resposta)
+                    print(f" [SISTEMA]: Erro ao processar os dados da reserva: {e}")
+
+                    
             else:
                 print("Bot:", resposta)
 

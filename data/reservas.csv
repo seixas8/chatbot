@@ -1,3 +1,7 @@
-Data,Hora,Nome,Nº pessoas,Nº Mesas,
-2026-01-10,12:00,Gonçalo Vieira,5,2,2026-01-09 21:33
-2026-01-10,20:30,Simão Seixas,2,1,2026-01-09 22:50
+Data,Hora,Nome,Pessoas,Mesas,Data_Registo
+2026-01-11,20:00,Simão Seixas,2,1,2026-01-10 18:18
+2026-01-12,19:30,Paulo Seixas,4,1,2026-01-10 18:33
+2026-01-13,19:30,Ana Martins,4,1,2026-01-10 18:39
+2026-01-12,19:30,Ana Martins,4,1,2026-01-10 18:43
+2026-01-12,19:30,Ana Martins,4,1,2026-01-10 18:43
+2026-01-12,19:30,Ana Martins,4,1,2026-01-10 18:49
