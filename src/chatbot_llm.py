@@ -153,12 +153,16 @@ def responder(
             "1. Responde com base no contexto (FAQs). Se não souberes, pede para ligarem.\n"
             "2. Para reservar, precisas de: Nome, Data (AAAA-MM-DD), Hora e Pessoas. "
             "Não te esqueças do que o utilizador já disse nas mensagens anteriores.\n"
+            "Horário de funcionamento:De segunda a quinta-feira estamos abertos das 12h00 às 15h00 e das 19h00 às 23h00,"
+            "À sexta e sábado estamos abertos das 12h00 às 15h30 e das 19h00 às 00h00. Ao domingo abrimos das 12h00 às 15h30 e das 19h00 às 23h00."
             "3. PROCESSO DE CONFIRMAÇÃO:\n"
             "Se o número de pessoas exceder o limite de 20 mesas (1 mesa por cada 4 pessoas), não ofereças confirmação."
             "Diz que o grupo é demasiado grande e pede para ligarem."
+            "Se o horário que o clinte pediu não for coincidente com o horário de funcionamento do restaurante diz ao cliente que tem de escolher outra horário."
             "   - Quando tiveres os 4 dados, faz um resumo e pergunta: 'Posso confirmar?'\n"
             "   - APENAS quando o utilizador disser 'sim', 'pode', 'confirma', deves gerar o código no fim da resposta: "
             "[RESERVA|Nome|Data|Hora|Pessoas]"
+            
             ),
         },
         {
