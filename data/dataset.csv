@@ -40,7 +40,7 @@ pergunta,resposta,categoria,imagem
 "Têm bacalhau no menu?","Sim, o nosso bacalhau à casa é um dos pratos mais populares, confitado em azeite e servido com batata a murro e grelos salteados.","menu_peixe","bacalhau.jpg"
 "Servem marisco?","Dependendo da época, podemos ter amêijoas, camarão ou outros mariscos. Confirme no dia com o staff ou no quadro de sugestões.","menu_peixe","tabua_marisco.jpg"
 "Têm opções vegetarianas?","Sim, temos risoto de cogumelos, caril de legumes, massa com pesto de manjericão e saladas completas como opções vegetarianas.","menu_vegetariano_vegano","risoto.jpg,caril_legumes.jpg,massa_pesto.jpg"
-"E opções veganas, também têm?","Sim, temos um caril de legumes com leite de coco, salada de grão-de-bico com legumes assados e hambúrguer vegan de grão e beterraba.","menu_vegetariano_vegano","caril_legumes"
+"E opções veganas, também têm?","Sim, temos um caril de legumes com leite de coco, salada de grão-de-bico com legumes assados e hambúrguer vegan de grão e beterraba.","menu_vegetariano_vegano","caril_legumes.jpg"
 "Podem adaptar pratos para serem vegetarianos?","Sempre que possível, conseguimos adaptar alguns pratos, por exemplo retirando carne ou peixe e reforçando os legumes. Fale connosco no momento do pedido.","menu_vegetariano_vegano"
 "Têm alternativas sem lactose?","Sim, temos algumas opções naturalmente isentas de lactose e, em certos casos, conseguimos adaptar receitas, por exemplo usando bebidas vegetais. Confirme sempre com o staff.","menu_vegetariano_vegano"
 "Têm menu especial para crianças?","Sim, temos um menu infantil com bifinhos de frango grelhado, massa à bolonhesa e mini hambúrguer com batata frita e legumes.","menu_criancas","bifinhos_frango.jpg,bolonhesa.jpg,mini_hamburguer.jpg"

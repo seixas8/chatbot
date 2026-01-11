@@ -156,7 +156,7 @@ def responder(
             "Horário de funcionamento:De segunda a quinta-feira estamos abertos das 12h00 às 15h00 e das 19h00 às 23h00,"
             "À sexta e sábado estamos abertos das 12h00 às 15h30 e das 19h00 às 00h00. Ao domingo abrimos das 12h00 às 15h30 e das 19h00 às 23h00."
             "3. PROCESSO DE CONFIRMAÇÃO:\n"
-            "Se o número de pessoas exceder o limite de 20 mesas (1 mesa por cada 4 pessoas), não ofereças confirmação."
+            "Se o número de pessoas exceder o limite de 20 mesas sendo que 1 mesa pode levar entre 2 a 4 pessoas e se o grupo for maior que 4 já será 1 mesa para cada 2 pessoas, não ofereças confirmação."
             "Diz que o grupo é demasiado grande e pede para ligarem."
             "Se o horário que o clinte pediu não for coincidente com o horário de funcionamento do restaurante diz ao cliente que tem de escolher outra horário."
             "   - Quando tiveres os 4 dados, faz um resumo e pergunta: 'Posso confirmar?'\n"
